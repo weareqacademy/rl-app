@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.40ee7a32.chunk.css",
+    "main.js": "/static/js/main.2115bb9c.chunk.js",
+    "main.js.map": "/static/js/main.2115bb9c.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.dc128e9d.js",
+    "runtime~main.js.map": "/static/js/runtime~main.dc128e9d.js.map",
+    "static/css/2.41ff332e.chunk.css": "/static/css/2.41ff332e.chunk.css",
+    "static/js/2.8843da06.chunk.js": "/static/js/2.8843da06.chunk.js",
+    "static/js/2.8843da06.chunk.js.map": "/static/js/2.8843da06.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7a81c002642991d03d820189dec6a8f0.js": "/precache-manifest.7a81c002642991d03d820189dec6a8f0.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.41ff332e.chunk.css.map": "/static/css/2.41ff332e.chunk.css.map",
+    "static/css/main.40ee7a32.chunk.css.map": "/static/css/main.40ee7a32.chunk.css.map",
+    "static/media/App.css": "/static/media/background.89a82e50.jpg",
+    "static/media/camera.svg": "/static/media/camera.234a4ab9.svg",
+    "static/media/default.svg": "/static/media/default.63e50965.svg",
+    "static/media/styles.css": "/static/media/ico-master.f6ac8fdf.webp",
+    "static/media/logo.svg": "/static/media/logo.5dcbb283.svg",
+    "static/media/oops.svg": "/static/media/oops.84384ca3.svg"
+  }
+}
